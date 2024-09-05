@@ -19,4 +19,3 @@ if __name__ == '__main__':
         "prompt": "What is the real-time number of commercial housing units sold today?"
     }
     run_scrapy(url=info.get("url"), prompt=info.get("prompt"))
-
