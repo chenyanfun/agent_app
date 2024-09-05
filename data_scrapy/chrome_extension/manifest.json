@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Authorization Header Injector",
+  "version": "1.0",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}

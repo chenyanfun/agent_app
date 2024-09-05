@@ -1,0 +1,30 @@
+# Python 编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境目录
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook 文件
+.ipynb_checkpoints
+
+# Pytest 生成的文件
+*.cover
+*.log
+coverage.xml
+*.egg-info/
+dist/
+build/
+
+# 其他 IDE 配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store

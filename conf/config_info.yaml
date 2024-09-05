@@ -1,0 +1,3 @@
+deploy:
+  api_key: xxx
+  model: gpt-3.5-turbo
