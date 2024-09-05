@@ -1,4 +1,4 @@
-# ageng-app
+# agent-app
 
 describe: Practical application scenarios of large models, including automatic crawlers, engineering of proprietary large models, engineering of proprietary deep learning models, etc. The project is under stable development and maintenance
 
@@ -9,6 +9,7 @@ describe: Practical application scenarios of large models, including automatic c
 * Preparation for operation：
   * ```pip install -r requirement.txt```
   * ```playwright install```
+  * modify the configuration file ```conf/config_info.yaml ```, Enter your api_key and select model
   * Writing Test Code,eg:
 ```python
 
